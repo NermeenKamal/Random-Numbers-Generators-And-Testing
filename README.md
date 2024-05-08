@@ -1,3 +1,7 @@
+![Screenshot 2024-05-08 224247](https://github.com/NermeenKamal/Random-Numbers-Generators-And-Testing/assets/114883845/11ffd04d-6f93-4e0d-85a4-b7c55459bf79)
+
+---
+
 # Random Number Generator
 
 This is a C++ project for generating random numbers using different methods:
